@@ -1,0 +1,2 @@
+Simple tool to choose whether to go the android marketplace or the web page for the android market
+depending on the requesting User-Agent.  (Android goes to market:// , everything else to http://market.android.com )
